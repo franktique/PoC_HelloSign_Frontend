@@ -1,4 +1,4 @@
-# Hellosign backend PoC
+# Hellosign frontend PoC
 
 Shows the use of 'hellosign-embedded', using the backend that you can find in the 'PoC_HelloSign_Backend' repo.
 
