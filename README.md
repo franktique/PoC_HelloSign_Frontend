@@ -21,7 +21,7 @@ yarn install
 ## Environment variables
 
 ### `REACT_APP_HELLOSIGN_CLIENT_ID`
-A unique identifier used to authenticate a user with the HelloSign API.
+The [client_id](https://faq.hellosign.com/hc/en-us/articles/360035403131) signifies a specific API app within HelloSign.
 
 
 ### `REACT_APP_API_BASE_URL`
