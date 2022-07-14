@@ -50,6 +50,8 @@ export const Five: React.FC<FiveProps> = ({setStep, signatureRequest}) => {
         }
     } 
 
-    return <><button onClick={()=> downloadHandler()}>{'Download Document'}</button></>
+    return <><button onClick={()=> downloadHandler()}>{'Download Document'}</button>
+             <button onClick={()=>setStep(6)}>Next</button>
+           </>
 
 };
